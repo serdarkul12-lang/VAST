@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serdarkul12-lang/VAST.git"
+    "url": "git+https://github.com/S-SK-TR/VAST.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/serdarkul12-lang/VAST/issues"
+    "url": "https://github.com/S-SK-TR/VAST/issues"
   },
-  "homepage": "https://github.com/serdarkul12-lang/VAST#readme"
+  "homepage": "https://github.com/S-SK-TR/VAST#readme"
 }

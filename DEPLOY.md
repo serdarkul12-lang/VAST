@@ -1,6 +1,6 @@
 # VAST Deployment Guide
 
-This guide explains how to deploy your VAST application to GitHub Pages at [https://serdarkul12-lang.github.io/VAST/](https://serdarkul12-lang.github.io/VAST/).
+This guide explains how to deploy your VAST application to GitHub Pages at [https://S-SK-TR.github.io/VAST/](https://S-SK-TR.github.io/VAST/).
 
 ## Configuration Changes Made
 
@@ -22,7 +22,7 @@ The deployment is automated using **GitHub Actions**.
 
 Before the first deployment works, you need to configure permissions in your GitHub repository:
 
-1.  Go to your repository on GitHub: [https://github.com/serdarkul12-lang/VAST/settings/actions](https://github.com/serdarkul12-lang/VAST/settings/actions)
+1.  Go to your repository on GitHub: [https://github.com/S-SK-TR/VAST/settings/actions](https://github.com/S-SK-TR/VAST/settings/actions)
 2.  Navigate to **Settings** > **Actions** > **General**.
 3.  Scroll down to **Workflow permissions**.
 4.  Select **Read and write permissions**.
@@ -44,4 +44,4 @@ Before the first deployment works, you need to configure permissions in your Git
     - **Branch**: `gh-pages` / `/ (root)`
 6.  Click **Save**.
 
-Your app should be live at: https://serdarkul12-lang.github.io/VAST/
+Your app should be live at: https://S-SK-TR.github.io/VAST/
